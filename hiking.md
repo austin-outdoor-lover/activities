@@ -1,37 +1,37 @@
 - Barton Creek Green Belt Trail, 土路，一半有树荫，2小时左右，走到Colorado River后原路返回，5miles. 
-  - 地点：1599 Spyglass Dr, Austin, TX 78746 路边停车。Trail在 Barton Skyway 和 Spyglass Dr 交叉口
+  - 地点：[1599 Spyglass Dr, Austin, TX 78746](https://goo.gl/maps/g4n7v1hA1pHRvdJc9) 路边停车。Trail在 Barton Skyway 和 Spyglass Dr 交叉口
 - Barton Creek trail Sculpture fall, point-to-point, 土路，有一小段loop，trail 尽头要爬山，3.5小时左右, ～8miles 来回。
-  - 地点: 30.244069 -97.809957 Barton Creek Greenbelt trail, 路边停车。
+  - 地点: [30.244069 -97.809957](https://goo.gl/maps/LA5FwFatQVzihrJH6) Barton Creek Greenbelt trail, 路边停车。
 - Mount Lakeway Trail. 6 miles point-to-point, 2.5小时左右。需要爬山。
   - 地址: 113 Trophy Dr, The Hills, TX 78738
-  - GPS: 30.3497050, -97.9963956
+  - GPS: [30.3497050, -97.9963956](https://goo.gl/maps/iwun9v1SUB7CeDQp7)
   - 路边停车
 - Canyon Vista middle school 后面的峡谷。Point-to-Point Trail，2小时左右. 谷中树木很多, 土+碎石路，谷底有小溪。开始的一小段坡度较大。
-   - 地址：Canyon Vista Middle School 停车场, 8455 Spicewood Springs Rd, 78759
+   - 地址：Canyon Vista Middle School 停车场, [8455 Spicewood Springs Rd, 78759](https://goo.gl/maps/roen45Vj7nBYy8Lm6)
 - Turkey Trail at Emma Long Park, 1.5小时左右，2.5 miles. 要穿过creek几次，地面是土路
-  - 地址: GPS 30.333811,-97.840288
+  - 地址: GPS [30.333811,-97.840288](https://goo.gl/maps/uxasRxipYxPn73h79)
   - 1982–2898 City Park Rd, Austin TX 78730;
   - Trail 外面有一个小土parking lot. 
   - 最好用GPS坐标找。
 - Rimrock & Indiangrass trail at Balcones Canyonlands National Wildlife Refuge Doeskin Ranch，～2小时，3.7miles. 有要爬坡的地方，130米高度变化。这条trail不可以带宠物。
-  - 地址: GPS 30.621001, -98.074192
+  - 地址: GPS [30.621001, -98.074192](https://goo.gl/maps/J4MD7RTRW1AaqVYt8)
   - 用GPS坐标找。
 - Valburn trail，Loop, 3miles, 1.5小时, 有坡度但不太难，土路。
-  - 地址：GPS: 30.37330, -97.78023
+  - 地址：GPS: [30.37330, -97.78023](https://goo.gl/maps/EJyuYHnGmi3ALePn9)
 - Dominion at Great Hills，2小时左右，3miles loop，有些坡要上上下下，土路，有些滑，在树林里转来转去。
-  - 地址: 6508 Yaupon Dr, Austin Texas 78759
+  - 地址: [6508 Yaupon Dr, Austin Texas 78759](https://goo.gl/maps/hUACa2emoyQbhE8f9)
 -  St Edward Trail, 1小时左右，2.5 miles, 先沿着小溪绕一绕再往山上爬。
     - 地址: 7301 Spicewood Springs Rd, Austin, Texas, 78759
-    - GPS 30.406878,-97.790169; 
+    - GPS [30.406878,-97.790169](https://goo.gl/maps/3iVJKQXZ2JAQU4Uq7); 
     - Trail 外面有一个土parking lot. 
     - 最好用GPS坐标找。
 - Lake Creek Trail, 很短, out and back, 1小时, 3miles. 
   - 地点：9504 Braes Valley St, Austin, TX 78729
-  - GPS: 30.4676470, -97.7775234
+  - GPS: [30.4676470, -97.7775234](https://goo.gl/maps/7vXw4EXzSh1fAc2t5)
 - Trailhead Park trail 1.5小时左右，point-to-point, 3miles 来回，大多数比较平坦，中段有些rocky，trail 尽头有一个小坡
   - 地址: 10984 Boulder Ln, Austin‎ Texas‎ 78726
-  - GPS: 30.4387457, -97.8218717
+  - GPS: [30.4387457, -97.8218717](https://goo.gl/maps/hVrYi7g3U7CkqrmE8)
   - Park 有个停车场
 - Downtown的Ann & Roy Butler Trail, paved 石子路，沿着湖边从MoPac走到Rainey Street折返, 2小时左右, 5miles loop。
-  - 集合地点：30.2745970, -97.7704091
-  - Parking地点建议: 30.275100, -97.770034
+  - 集合地点：[30.2745970, -97.7704091](https://goo.gl/maps/TnNp3qz4ExLWUbnQ6)
+  - Parking地点建议: [30.275100, -97.770034](https://goo.gl/maps/DVWY1GHFMEi1R1ki9)
